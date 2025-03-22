@@ -23,7 +23,7 @@ app.use(bodyParser.urlencoded({extended:true}))
 app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions = {
-    origin:'http://localhost:5173',
+    origin:"https://newjobportal-gqmi.onrender.com",
     credentials:true
 }
 
