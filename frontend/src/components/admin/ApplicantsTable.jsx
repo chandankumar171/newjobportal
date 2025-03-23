@@ -76,7 +76,7 @@ const ApplicantsTable = () => {
                                                 onClick={() => statusHandler(status, item?._id)} 
                                                 className={`flex w-fit items-center my-2 cursor-pointer ${
                                                     statuses[item._id] === status ? 
-                                                    (status === "Accepted" ? "text-red-600 font-semibold" : "text-green-600 font-semibold") : ""
+                                                    (status === "Accepted" ? "text-green-600 font-semibold" : "text-red-600 font-semibold") : ""
                                                 }`}
                                             >
                                                 <span>{status}</span>
