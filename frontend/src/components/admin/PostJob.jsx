@@ -100,6 +100,7 @@ const PostJob = () => {
                             <Input
                                 type="text"
                                 name="salary"
+                                placeholder="in LPA"
                                 value={input.salary}
                                 onChange={changeEventHandler}
                                 className="focus-visible:ring-offset-0 focus-visible:ring-0 my-1"
@@ -130,6 +131,7 @@ const PostJob = () => {
                             <Input
                                 type="text"
                                 name="experience"
+                                placeholder="in Year"
                                 value={input.experience}
                                 onChange={changeEventHandler}
                                 className="focus-visible:ring-offset-0 focus-visible:ring-0 my-1"

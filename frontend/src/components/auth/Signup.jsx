@@ -144,7 +144,7 @@ const Signup = () => {
                             </div>
                         </RadioGroup>
                         <div className='flex flex-col md:flex-row items-start md:items-center gap-2'>
-                            <Label>Profile</Label>
+                            <Label>Profile Photo</Label>
                             <Input
                                 accept="image/*"
                                 type="file"
