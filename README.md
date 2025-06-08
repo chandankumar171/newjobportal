@@ -2,7 +2,7 @@
 
 **Hire Flow** is a responsive job portal website designed for job seekers and recruiters to connect efficiently. Built with the **MERN stack**, **Tailwind CSS**, **ShadCN UI**, and **Cloudinary**, it aims to bridge the gap between local job opportunities and qualified candidates.
 
-## 🚀 
+## 🚀 Features
 
 **Recruiters:**
 - Register your company and manage your profile.
